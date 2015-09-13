@@ -2,8 +2,8 @@
 
 ## Script dependencies
 # duplicity
-# OpenSSH client
 # gnupg
+# OpenSSH client
 # pycrypto (python-crypto package on Ubuntu)
 # pip
 # paramiko (pip package)
